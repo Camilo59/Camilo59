@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Camilo59
-- 👀 I’m interested in Camilo
+- 👀 I’m interested in making apps for business
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on React related projects
 - 📫 How to reach me @camilovargas_co
